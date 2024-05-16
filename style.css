@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f10404;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 18px;
+    color: #fa0000;
+}
+
+.resultados {
+    background-color: #ff0000;
+    border: 1px solid #ff0000;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.resultados p {
+    margin: 0;
+}
